@@ -45,7 +45,8 @@ _Add a few screenshots here before publishing — drag images into this section 
 
 | Now Playing | Library | Online Search |
 |---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
+| _screenshot_ | _screenshot_ | _screenshot_ |<img width="258" height="472" alt="Screenshot 2026-09-28 224046" src="https://github.com/user-attachments/assets/66b69155-0a75-4085-a72d-6c43338674c1" />
+
 
 ---
 
