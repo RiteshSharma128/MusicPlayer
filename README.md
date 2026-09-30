@@ -1,4 +1,19 @@
-![alt text](<Screenshot 2026-09-28 224046.png>) ![alt text](<Screenshot 2026-09-28 224059.png>) ![alt text](<Screenshot 2026-09-28 224121.png>) ![alt text](<Screenshot 2026-09-28 224138.png>) ![alt text](<Screenshot 2026-09-28 224200.png>) ![alt text](<Screenshot 2026-09-28 224223.png>) ![alt text](<Screenshot 2026-09-28 224234.png>) ![alt text](<Screenshot 2026-09-28 224252.png>) ![alt text](<Screenshot 2026-09-28 224307.png>) ![alt text](<Screenshot 2026-09-28 224318.png>) ![alt text](<Screenshot 2026-09-28 224413.png>) ![alt text](<Screenshot 2026-09-28 224427.png>) ![alt text](<Screenshot 2026-09-28 224451.png>)# Music Player (React Native CLI 0.86)
+<img width="258" height="472" alt="Screenshot 2026-09-28 224046" src="https://github.com/user-attachments/assets/041f902c-d661-437b-b4eb-09ac605fa781" />
+<img width="229" height="464" alt="Screenshot 2026-09-28 224059" src="https://github.com/user-attachments/assets/4edb2055-f801-4f40-bf03-ea456929caa4" />
+<img width="238" height="508" alt="Screenshot 2026-09-28 224121" src="https://github.com/user-attachments/assets/a6287a55-6c47-4cea-97d4-9bde06f02326" />
+<img width="244" height="465" alt="Screenshot 2026-09-28 224138" src="https://github.com/user-attachments/assets/369cca38-f866-4b32-a485-61e1bdb4fd5a" />
+<img width="238" height="476" alt="Screenshot 2026-09-28 224200" src="https://github.com/user-attachments/assets/abc13be1-1750-4bfc-87fa-2d72631ef3ca" />
+<img width="245" height="470" alt="Screenshot 2026-09-28 224223" src="https://github.com/user-attachments/assets/8e53f8a6-be38-4ed4-a818-75ee27934a2d" />
+<img width="250" height="505" alt="Screenshot 2026-09-28 224234" src="https://github.com/user-attachments/assets/05c99af2-83e7-45ba-b20b-1e3973ebc3b7" />
+<img width="251" height="499" alt="Screenshot 2026-09-28 224252" src="https://github.com/user-attachments/assets/a7ce11b4-592a-4128-9cc6-004b4d02b665" />
+<img width="251" height="455" alt="Screenshot 2026-09-28 224307" src="https://github.com/user-attachments/assets/2f41dfaa-db2e-4f83-9603-c76c559f83ec" />
+<img width="235" height="469" alt="Screenshot 2026-09-28 224318" src="https://github.com/user-attachments/assets/559c596e-bd05-4523-8faa-9867b3f4423a" />
+<img width="232" height="472" alt="Screenshot 2026-09-28 224413" src="https://github.com/user-attachments/assets/a412f14c-93f9-49a7-b249-aedeafda2936" />
+<img width="239" height="483" alt="Screenshot 2026-09-28 224427" src="https://github.com/user-attachments/assets/3d19f667-764f-4145-b587-e6cadafe9266" />
+<img width="242" height="469" alt="Screenshot 2026-09-28 224451" src="https://github.com/user-attachments/assets/83177af3-fea0-4c85-bce4-656547c0deb4" />
+
+
+# Music Player (React Native CLI 0.86)
 
 Offline-first music player — phone ke local storage se scan karke gaane
 play karta hai. Ab isme online preview streaming (free API), theming,
